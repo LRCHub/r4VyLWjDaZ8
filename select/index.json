@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "藍時雨",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-02-18T04:42:49.585601Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "藍時雨",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_藍時雨_Aqu3ra.txt"
+    }
+  ]
+}
